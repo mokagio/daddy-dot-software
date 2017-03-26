@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>daddy.software</title>
-    <link>http://daddy.software/index.xml</link>
-    <description>Recent content on daddy.software</description>
+    <title>Posts on daddy.software</title>
+    <link>http://daddy.software/post/index.xml</link>
+    <description>Recent content in Posts on daddy.software</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Mar 2017 13:10:55 +1100</lastBuildDate>
-    <atom:link href="http://daddy.software/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://daddy.software/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello World</title>
