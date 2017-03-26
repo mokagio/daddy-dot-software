@@ -1,7 +1,7 @@
 ---
 date: 2017-03-26T13:10:55+11:00
-draft: true
-title: hello world
+draft: false
+title: Hello World
 ---
 
 This is just warm up post to verify the whole setup of the blog.
