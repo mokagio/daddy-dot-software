@@ -6,8 +6,28 @@
     <description>Recent content on daddy.software</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Mar 2017 13:10:55 +1100</lastBuildDate>
+    <lastBuildDate>Tue, 28 Mar 2017 07:22:00 +1100</lastBuildDate>
     <atom:link href="http://daddy.software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>One Experiment At A Time</title>
+      <link>http://daddy.software/post/2017-03-28-one-experiment-at-a-time/</link>
+      <pubDate>Tue, 28 Mar 2017 07:22:00 +1100</pubDate>
+      
+      <guid>http://daddy.software/post/2017-03-28-one-experiment-at-a-time/</guid>
+      <description>&lt;p&gt;What many people get wrong in the world of A/B testing is that they test multiple things at the same time. This way if some of the metrics observed for the test improve, they&amp;rsquo;re not sure what the real source is. Most of the time A/B tests focus on vanity metrics, so this is not a real problem.&lt;/p&gt;
+
+&lt;p&gt;For the software developer dad though, being able to make the most out of their work time is very important, so we won&amp;rsquo;t make the same mistake. In this blog we&amp;rsquo;ll always experiment with a change to our routine or setup at a time.&lt;/p&gt;
+
+&lt;p&gt;Many times I tried adopting big radical frameworks only to find out that they were too much for me to stick to. Sort of like a big bang release, too much to handle.&lt;/p&gt;
+
+&lt;p&gt;Since &amp;ldquo;life is a marathon, not a sprint&amp;rdquo;, and &amp;ldquo;compound interest is the real source of wellness&amp;rdquo; is much better to commit to one little change per week and see whether it&amp;rsquo;s worth sticking to it or not.&lt;/p&gt;
+
+&lt;p&gt;Now that we&amp;rsquo;ve cleared that out, the next post you&amp;rsquo;ll write will be about the first experiment I&amp;rsquo;ll try out. Stay tuned.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;👋 Gio&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Hello World</title>
