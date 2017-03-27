@@ -12,7 +12,7 @@ I might write more in depth about the actual deployment later on.
 
 ### About me
 
-My name is Gio and I am the dad of an 11 weeks old boy named Finn. I've been working as an iOS developer 5 years so far, and am focused on testing and productivity.
+My name is Gio, on Twitter as [@mokagio](https://twitter.com/mokagio) and since January 2017 I am the proud dad of a smiley boy named Finn. I've been working in the software industry since 2011, and am focused on testing and productivity.
 
 ### About this blog
 
