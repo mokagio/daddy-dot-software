@@ -6,8 +6,75 @@
     <description>Recent content on daddy.software</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Mar 2017 07:22:00 +1100</lastBuildDate>
+    <lastBuildDate>Thu, 06 Apr 2017 06:54:57 +1000</lastBuildDate>
     <atom:link href="http://daddy.software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Notes from &#34;Creating Reliable Behavioural Systems&#34;</title>
+      <link>http://daddy.software/post/2017-04-06-building-systems/</link>
+      <pubDate>Thu, 06 Apr 2017 06:54:57 +1000</pubDate>
+      
+      <guid>http://daddy.software/post/2017-04-06-building-systems/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://spec.fm/podcasts/developer-tea&#34;&gt;Developer Tea&lt;/a&gt; is a podcast hosted by &lt;a href=&#34;https://twitter.com/JCutrell&#34;&gt;Jonathan Cutrell&lt;/a&gt; that focuses on soft skills for software developers.&lt;/p&gt;
+
+&lt;p&gt;In the &lt;a href=&#34;https://spec.fm/podcasts/developer-tea/62264&#34;&gt;April 3rd 2017 episode&lt;/a&gt; Jonathan answers a listener question and elaborates on strategies to build &amp;ldquo;reliable behavioural systems&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;I first got in touch with the concept of &amp;ldquo;systems vs goals&amp;rdquo; in [Scott Adam]&amp;rsquo;s book &lt;a href=&#34;http://blog.dilbert.com/post/102964983301/how-to-fail-at-almost-everything-and-still-win&#34;&gt;How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life Kindle Edition&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In the book Dilbert&amp;rsquo;s author shares the principle that guided him in his life. Rather that setting lofty goals, put in place systems of continuous learning and improvement, so that even if your current endeavour fails, you&amp;rsquo;ll still get out of it with more experience and knowledge to apply on your next one.&lt;/p&gt;
+
+&lt;p&gt;How do you build a good system though? That&amp;rsquo;s what Jonathan explores in the podcast episode.&lt;/p&gt;
+
+&lt;p&gt;When putting a system in place we need to make sure:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It has a &lt;strong&gt;contingency plan&lt;/strong&gt;. If the system is exercising at the gym what happens if the gym is closed? One could fall back to have a mat and some dumbbells at home, or got to the playground next door and do pull up.&lt;/li&gt;
+&lt;li&gt;It is &lt;strong&gt;adaptable to scale&lt;/strong&gt;. The system needs to scale with the available resources, time in particular. In the exercise example if one doesn&amp;rsquo;t have much time to do a proper workout they can always do a &lt;a href=&#34;https://www.youtube.com/watch?v=ECxYJcnvyMw&#34;&gt;7 minutes one&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;It is &lt;strong&gt;comprehensible&lt;/strong&gt;. The system needs to be simple and easy to implement, so that there&amp;rsquo;s no friction to actually doing it.&lt;/li&gt;
+&lt;li&gt;It is &lt;strong&gt;achievable&lt;/strong&gt;. Finally, a system needs to be achievable. It needs to be made up of components that, thanks to contingency plans and scalability, basically cannot be failed. This is important because momentum and consistency are key when building habits.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;👋 Gio.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Notes from &#34;The 1% Rule&#34;</title>
+      <link>http://daddy.software/post/2017-04-05-the-1-percent-rule-notes/</link>
+      <pubDate>Wed, 05 Apr 2017 06:12:47 +1000</pubDate>
+      
+      <guid>http://daddy.software/post/2017-04-05-the-1-percent-rule-notes/</guid>
+      <description>&lt;p&gt;In &amp;ldquo;&lt;a href=&#34;http://jamesclear.com/the-1-percent-rule?utm_source=Swift_Developments&amp;amp;utm_medium=email&amp;amp;utm_campaign=Swift_Developments_Issue_82&#34;&gt;The 1% Rule&lt;/a&gt;&amp;rdquo; &lt;a href=&#34;https://twitter.com/james_clear&#34;&gt;James Clear&lt;/a&gt; goes into details on how the &lt;a href=&#34;https://en.wikipedia.org/wiki/Pareto_principle&#34;&gt;Pareto&amp;rsquo;s principle&lt;/a&gt;, also known as &lt;sup&gt;80&lt;/sup&gt;&amp;frasl;&lt;sub&gt;20&lt;/sub&gt; rule came about, and how it applies to many contexts in nature and business.&lt;/p&gt;
+
+&lt;p&gt;From Pareto&amp;rsquo;s pea pods to NBA and soccer teams, roughly 20% of the population gets roughly 80% of the pie.&lt;/p&gt;
+
+&lt;p&gt;These observation result in the &amp;ldquo;winner takes all&amp;rdquo; effect. The winners, those how can consistently be just a bit better than the competition, will get all the rewards.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Imagine two plants growing side by side. Each day they will compete for sunlight and soil. If one plant can grow just a little bit faster than the other, then it can stretch taller, catch more sunlight, and soak up more rain. The next day, this additional energy allows the plant to grow even more. This pattern continues until the stronger plant crowds the other out and takes the lion’s share of sunlight, soil, and nutrients.&lt;/p&gt;
+
+&lt;p&gt;From this advantageous position, the winning plant has a better ability to spread seeds and reproduce, which gives the species an even bigger footprint in the next generation. This process gets repeated again and again until the plants that are slightly better than the competition dominate the entire forest.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;How does this unfairness come about? Well that&amp;rsquo;s the point, &lt;strong&gt;it is not unfair, just one of the rules of the game&lt;/strong&gt;, it stands true all over nature. There&amp;rsquo;s nothing we can do about it but learn to deal with it.&lt;/p&gt;
+
+&lt;p&gt;This brings to mind a quote from &lt;a href=&#34;https://twitter.com/kytrinyx&#34;&gt;Katrina Owen&lt;/a&gt; on passion and talent from her talk &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/watch?v=rHLTltK1kss&#34;&gt;Hacking Passion&lt;/a&gt;&amp;ldquo;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Talent is bullshit. Skills can be developed systematically, and a system is awesome. A system you can understand, a system you can hack.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So, how can we make sure we get into the 1% of the population for anything that we want to do? As the article suggests one only needs to be slightly better than the competition, and to do that consistently.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Scientists refer to this effect as “&lt;strong&gt;accumulative advantage&lt;/strong&gt;.” What begins as a small advantage gets bigger over time. One plant only needs a slight edge in the beginning to crowd out the competition and take over the entire forest.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We need to be methodic and systematic in what we do, develop good habits, and invest the little time we have we our little ones are asleep to build up that accumulative advantage that will get us in a position where we can provide for our families.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;👋 Gio.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>One Experiment At A Time</title>
